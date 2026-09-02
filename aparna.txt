@@ -1,2 +1,5 @@
 i am practicing
 git hub
+today i am
+practicing git 
+command
