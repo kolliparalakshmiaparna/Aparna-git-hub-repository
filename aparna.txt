@@ -1,5 +1,2 @@
-i am practicing
-git hub
-today i am
-practicing git 
-command
+adding data
+into aparna.txt
